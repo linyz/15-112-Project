@@ -1,0 +1,9 @@
+4/24/2013
+v8.py and Server.py is the currently working version that can draw image on board and synchronization short msg between clients.
+Moving mouse with left button pressed to draw, click colors/brushes to change color/brush size.
+Type in entry to chat.
+
+Problems:
+1. Can not send entire image string (too big).
+2. Use global variables to be able to access data in twisted/protocal/dataRecieved. Other ways without global variables?
+3. When moving mouse fast, tkinter draws seperated points instead of lines.

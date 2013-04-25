@@ -1,0 +1,24 @@
+4/14/2013 
+1 hour working on proposal. Many hours before this exploring python modules and come up with an idea.
+
+4/15/2013 
+2 hours working on proposal, competitive analysis, storyboard etc.
+
+4/16/2013 
+2 hours working on PIL technology demonstration
+
+4/20/2013
+6 hours work to set up basic draw board part.
+
+4/21/2013
+2 hours work to refine draw board.
+
+4/22/2013
+2 hours to get familiar with client-server/ twisted
+
+4/23/2013
+4 hours work. Can send and synchronization short msgs between clients now. 
+(Use twisted to write server and socket for client)
+
+4/24/2013
+6 hour work to rewrite client using twisted. Start to working on transfer image.

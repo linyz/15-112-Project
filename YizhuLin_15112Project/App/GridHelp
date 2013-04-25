@@ -1,0 +1,2 @@
+from Tkinter import *
+print help(Grid)

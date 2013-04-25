@@ -1,0 +1,4 @@
+from Tkinter import *
+from PIL import ImageTk, Image, ImageDraw
+
+print help(Frame)

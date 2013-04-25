@@ -1,0 +1,4 @@
+4/24/2013
+v8.py and Server.py is the currently working version that can draw image on board and synchronization short msg between clients.
+Moving mouse with left button pressed to draw, click colors/brushes to change color/brush size.
+Type in entry to chat.
